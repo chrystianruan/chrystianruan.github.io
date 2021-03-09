@@ -1,0 +1,78 @@
+body {
+    background-image: url("../Imagens/back1.jpg");
+    background-size: 100%;
+
+}
+
+
+h1 {
+    color: white;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.H22 {
+    color: white;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute; 
+    right: 45%;
+    top: 20%;
+
+}
+
+.H2 {
+    color: white;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    right: 45%;
+    top: 70%;
+
+}
+p {
+    color: white;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.CRIS {
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.UNO {
+    width:500px;
+    height:350px;
+    position: absolute;
+    right: 60%;
+    top: 25%;
+}
+
+.SOCIO {
+    max-width:600px;
+    max-height:600px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    right: -1px;
+    bottom: 350px;
+
+}
+
+.FILO {
+    width:600px;
+    height:227px;
+    position: absolute;
+    right: -1px;
+    bottom: 40px;
+   
+}
+

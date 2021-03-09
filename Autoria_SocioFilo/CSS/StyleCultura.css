@@ -1,0 +1,108 @@
+body {
+    background-image: url("../Imagens/back1.jpg");
+
+}
+
+
+
+
+
+h2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace
+    
+}
+
+
+div {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+     text-indent: 20pt;
+
+
+}
+
+ol {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    right: 5pt;
+    bottom: 0pt;
+    list-style: outside;
+}
+
+.CNN {
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.METEORO {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.TOPODAPAGINA {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: white;
+    position: absolute;
+    right: 1%;
+    bottom: -44%;
+}
+
+.IMGVOLTAR {
+    width: 155px;
+   height: 115px;
+   left: 0pt;
+   bottom: 0pt;
+   position: relative;
+}
+
+.IMGHOME {
+    width: 80px;
+   height: 75px;
+   left: 1%;
+   bottom: 0pt;
+   position: relative;
+
+
+}
+
+.IMGAPRESENTADORAS {
+    width: 675px;
+    height: 600px;
+
+}
+
+.gride{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: rgba(255, 255, 255, .3);
+    margin: 1%;
+
+}
+.LINHAFOTO{
+    background-color: blue;
+    border: 10px solid rgba(0, 0, 0, 1);
+    padding: 0%;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.LINHATEXTO{
+    background-color: blue;
+    border: 10px solid rgba(0, 0, 0, 1);
+    padding: 20px;
+    font-size: 30px;
+    text-align: justify;
+}
+

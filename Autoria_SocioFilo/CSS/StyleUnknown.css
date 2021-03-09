@@ -1,0 +1,22 @@
+body {
+    background-image: url(../Imagens/marquinhos.jpg);
+    background-size: 99%;
+}
+
+.IMGVOLTAR {
+    width: 155px;
+   height: 115px;
+   left: 0pt;
+   top: 375pt;
+   position: relative;
+}
+
+img {
+    position: absolute;
+    width: 220px;
+    height: 260px;
+    right: 10%;
+    top: 6%;
+
+
+}
